@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurity.Data", "CyberSecurity.Data\CyberSecurity.Data.csproj", "{2045FD19-F460-4ECB-966A-C7A407ADF623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurity.Persistence", "CyberSecurity.Persistence\CyberSecurity.Persistence.csproj", "{6A0AA465-561A-43BB-89FB-246817B4622C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurity.Services", "CyberSecurity.Services\CyberSecurity.Services.csproj", "{21CEFB1B-F4F2-47DF-B965-A975E6D59486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurity.UI", "CyberSecurity.UI\CyberSecurity.UI.csproj", "{965A5A8A-9D3B-4641-9687-9F917A9E52C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurity.StorageClient", "CyberSecurity.StorageClient\CyberSecurity.StorageClient.csproj", "{0EF5A3ED-3DA0-47CA-971D-77128C637FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurity.Helpers", "CyberSecurity.Helpers\CyberSecurity.Helpers.csproj", "{A8420E10-55C0-4F2C-B89E-1BC6F605472D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2045FD19-F460-4ECB-966A-C7A407ADF623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2045FD19-F460-4ECB-966A-C7A407ADF623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2045FD19-F460-4ECB-966A-C7A407ADF623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2045FD19-F460-4ECB-966A-C7A407ADF623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0AA465-561A-43BB-89FB-246817B4622C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0AA465-561A-43BB-89FB-246817B4622C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0AA465-561A-43BB-89FB-246817B4622C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0AA465-561A-43BB-89FB-246817B4622C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CEFB1B-F4F2-47DF-B965-A975E6D59486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CEFB1B-F4F2-47DF-B965-A975E6D59486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CEFB1B-F4F2-47DF-B965-A975E6D59486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CEFB1B-F4F2-47DF-B965-A975E6D59486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965A5A8A-9D3B-4641-9687-9F917A9E52C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965A5A8A-9D3B-4641-9687-9F917A9E52C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965A5A8A-9D3B-4641-9687-9F917A9E52C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965A5A8A-9D3B-4641-9687-9F917A9E52C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF5A3ED-3DA0-47CA-971D-77128C637FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF5A3ED-3DA0-47CA-971D-77128C637FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF5A3ED-3DA0-47CA-971D-77128C637FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF5A3ED-3DA0-47CA-971D-77128C637FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8420E10-55C0-4F2C-B89E-1BC6F605472D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8420E10-55C0-4F2C-B89E-1BC6F605472D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8420E10-55C0-4F2C-B89E-1BC6F605472D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8420E10-55C0-4F2C-B89E-1BC6F605472D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
